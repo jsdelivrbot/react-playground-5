@@ -1,0 +1,1711 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"require"
+			],
+			[
+				"use",
+				"userSchema"
+			],
+			[
+				"mo",
+				"mongoose"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"act",
+				"action\tReact: class component"
+			],
+			[
+				"auth",
+				"authd"
+			],
+			[
+				"con",
+				"conextTypes"
+			],
+			[
+				"map",
+				"mapStateToProps"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"Com",
+				"ComposedComponent"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"Rout",
+				"Route"
+			],
+			[
+				"he",
+				"Header"
+			],
+			[
+				"na",
+				"nav"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"sta",
+				"starter"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"red",
+				"reducers"
+			],
+			[
+				"ex",
+				"expect"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"test",
+				"test\tRedux: reducer test"
+			],
+			[
+				"tes",
+				"test\tRedux: reducer test"
+			],
+			[
+				"acti",
+				"actions"
+			],
+			[
+				"m",
+				"mapdispatch\tReact: class component"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"Sa",
+				"SAVE_COMMENT"
+			],
+			[
+				"te",
+				"test\tRedux: action test"
+			],
+			[
+				"co",
+				"comment"
+			],
+			[
+				"comme",
+				"comment"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"bt",
+				"btn-secondary"
+			],
+			[
+				"de",
+				"deletePost"
+			],
+			[
+				"ma",
+				"mapstate\tReact: class component"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"C",
+				"CREATE_POST"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"Pos",
+				"PostsNew"
+			],
+			[
+				"a",
+				"API_KEY"
+			],
+			[
+				"AP",
+				"API_URL"
+			],
+			[
+				"R",
+				"Route"
+			],
+			[
+				"Re",
+				"react"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"Spa",
+				"SparklinesReferenceLine"
+			],
+			[
+				"hum",
+				"humidities"
+			],
+			[
+				"pres",
+				"pressures"
+			],
+			[
+				"hu",
+				"Humidty"
+			],
+			[
+				"tem",
+				"temps"
+			],
+			[
+				"ren",
+				"renderListItem"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"we",
+				"WeatherList"
+			],
+			[
+				"mod",
+				"module"
+			],
+			[
+				"cd",
+				"cdup\tReact: componentDidUpdate(pp, ps) {…}"
+			],
+			[
+				"bin",
+				"bindActionCreators"
+			],
+			[
+				"Ope",
+				"OPEN_WEATHER_MAP_API_URL"
+			],
+			[
+				"Fe",
+				"FETCH_WEATHER"
+			],
+			[
+				"on",
+				"onSubmit"
+			],
+			[
+				"input",
+				"input-group"
+			],
+			[
+				"bo",
+				"BookDetail"
+			],
+			[
+				"render",
+				"renderList"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"brod",
+				"border-radius"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"vid",
+				"videos"
+			],
+			[
+				"Vi",
+				"VideoDetail"
+			],
+			[
+				"if",
+				"iframe"
+			],
+			[
+				"cal",
+				"className"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"rot",
+				"rotTest"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"struc",
+				"structureRotation"
+			],
+			[
+				"Speh",
+				"SphericalToLocalPosition"
+			],
+			[
+				"Cor",
+				"CoordsHelper"
+			],
+			[
+				"x",
+				"xDiff"
+			],
+			[
+				"Sp",
+				"SphericalToLocalPosition"
+			],
+			[
+				"Vec",
+				"Vector3"
+			],
+			[
+				"Ha",
+				"HalfDegPerChunk"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"stru",
+				"structuremapTexture"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"str",
+				"structuremapTexture"
+			],
+			[
+				"Vector",
+				"Vector3"
+			],
+			[
+				"Str",
+				"StructureColour"
+			],
+			[
+				"st",
+				"structureColours"
+			],
+			[
+				"chu",
+				"chunk"
+			],
+			[
+				"Buil",
+				"BuildStructures"
+			],
+			[
+				"Bui",
+				"Build"
+			],
+			[
+				"De",
+				"Debug"
+			],
+			[
+				"Rot",
+				"rotation"
+			],
+			[
+				"ro",
+				"root"
+			],
+			[
+				"Gen",
+				"GenerateRow"
+			],
+			[
+				"Ge",
+				"GenerateChunk"
+			],
+			[
+				"p",
+				"private"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"terr",
+				"terrain"
+			],
+			[
+				"Set",
+				"SetNeighbors"
+			],
+			[
+				"Ter",
+				"Terrain"
+			],
+			[
+				"chun",
+				"chunks"
+			],
+			[
+				"Dyn",
+				"DynamicTerrainChunk"
+			],
+			[
+				"ter",
+				"terrian"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"y",
+				"yPxl"
+			],
+			[
+				"Eu",
+				"eulerAngles"
+			],
+			[
+				"Spe",
+				"SphericalCoord"
+			],
+			[
+				"coo",
+				"coord"
+			],
+			[
+				"gER",
+				"GenerateChunk"
+			],
+			[
+				"hei",
+				"heightmapTexture"
+			],
+			[
+				"slp",
+				"splatData"
+			],
+			[
+				"spla",
+				"splatData"
+			],
+			[
+				"spl",
+				"splatData"
+			],
+			[
+				"Spla",
+				"SplatData"
+			],
+			[
+				"S",
+				"WorldSpaceToSpherical"
+			],
+			[
+				"Co",
+				"CoordsHelper"
+			],
+			[
+				"Lo",
+				"Longitude"
+			],
+			[
+				"l",
+				"Latitude"
+			],
+			[
+				"heih",
+				"heightmapTexture"
+			],
+			[
+				"splat",
+				"splats"
+			],
+			[
+				"alp",
+				"alphamapWidth"
+			],
+			[
+				"t",
+				"terrainData"
+			],
+			[
+				"Bu",
+				"BuildSplats"
+			],
+			[
+				"heihg",
+				"heightmapTexture"
+			],
+			[
+				"heig",
+				"heightmapWidth"
+			],
+			[
+				"h",
+				"heightmapScale"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "auth/server/index.js",
+			"settings":
+			{
+				"buffer_size": 564,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "auth/server/router.js",
+			"settings":
+			{
+				"buffer_size": 145,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "auth/server/controllers/authentication.js",
+			"settings":
+			{
+				"buffer_size": 163,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "POST http://localhost:3090/signup\n \n{\n    \"email\": \"e@eg.com\",\n    \"password\": \"1234\"\n}",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Unix",
+				"name": "POST http://localhost:3090/signup"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"re ope",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"rv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"inde",
+				"Indent JSON"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snippt",
+				"Snippet: Prototype"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"cl",
+				"Project: Close"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"fold",
+				"Fold Comments"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"tog",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ind",
+				"Indent XML"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"dcd",
+				"DKit: Restart DCD Autocompletion Server"
+			],
+			[
+				"sub",
+				"sublime-d: Format Code"
+			],
+			[
+				"got",
+				"sublime-d: Go To Definition"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"GOTO",
+				"DKit: Goto Definition"
+			],
+			[
+				"REST",
+				"DKit: Restart DCD Autocompletion Server"
+			],
+			[
+				"CREATE",
+				"DKit: Create Project From DUB Package File"
+			],
+			[
+				"DUB",
+				"DKit: Create DUB Package File"
+			],
+			[
+				"UpDATE",
+				"DKit: Update Import Paths"
+			],
+			[
+				"",
+				"ASCII Decorator: Default Font"
+			],
+			[
+				"asc",
+				"ASCII Decorator: Font Selector"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"ips",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"bui",
+				"Build: Cancel"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"toggle m",
+				"View: Toggle Menu"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 418.0
+	},
+	"console":
+	{
+		"height": 60.0,
+		"history":
+		[
+			"view.command_history(0)",
+			"view.command_history(2)",
+			"view.command_history(1)",
+			"view.command_history(0)",
+			"view.command_history(3)",
+			"view.command_history(0)",
+			"view.command_history()",
+			"dub upgrade",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/react-playground",
+		"/E/react-playground/auth",
+		"/E/react-playground/auth/server",
+		"/E/react-playground/auth/server/models"
+	],
+	"file_history":
+	[
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/User/RESTer.sublime-settings",
+		"/E/react-playground/auth/server/models/user.js",
+		"/E/react-playground/auth/server/package.json",
+		"/E/react-playground/auth/server/.gitignore",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/User/DKit.sublime-settings",
+		"/E/react-playground/redux-simple-starter-middle/src/middleware/async.js",
+		"/E/react-playground/redux-simple-starter-middle/src/reducers/users.js",
+		"/E/react-playground/redux-simple-starter-middle/src/index.js",
+		"/E/react-playground/redux-simple-starter-middle/src/components/user-list.js",
+		"/E/react-playground/redux-simple-starter-middle/src/actions/index.js",
+		"/E/react-playground/redux-simple-starter-middle/style/style.css",
+		"/E/react-playground/redux-simple-starter-middle/src/actions/types.js",
+		"/E/react-playground/redux-simple-starter-middle/src/components/app.js",
+		"/E/react-playground/redux-simple-starter-middle/src/reducers/index.js",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/redux_reducer.sublime-snippet",
+		"/C/Program Files/OpenVPN/config/README.txt",
+		"/E/react-playground/redux-simple-starter-hoc/src/index.js",
+		"/E/react-playground/redux-simple-starter-hoc/src/components/header.js",
+		"/E/react-playground/redux-simple-starter-hoc/src/components/resources.js",
+		"/E/react-playground/redux-simple-starter-hoc/src/components/app.js",
+		"/E/react-playground/redux-simple-starter-hoc/src/components/require_auth.js",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/react_componentWillMount.sublime-snippet",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/react_map_state_props.sublime-snippet",
+		"/E/react-playground/redux-simple-starter-hoc/src/reducers/index.js",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/react_component_hoc.sublime-snippet",
+		"/E/react-playground/redux-simple-starter-hoc/src/reducers/authentication.js",
+		"/E/react-playground/redux-simple-starter-hoc/src/actions/types.js",
+		"/E/react-playground/redux-simple-starter-hoc/src/actions/index.js",
+		"/E/react-playground/redux-simple-starter-hoc/test/test_helper.js",
+		"/E/react-playground/redux-simple-starter-testing/test/test_helper.js",
+		"/E/react-playground/redux-simple-starter-testing/src/reducers/comments.js",
+		"/E/react-playground/redux-simple-starter-testing/test/reducers/comments_test.js",
+		"/E/react-playground/redux-simple-starter-testing/src/components/comment-box.js",
+		"/E/react-playground/redux-simple-starter-testing/src/reducers/index.js",
+		"/E/react-playground/redux-simple-starter-testing/test/components/comment-list_test.js",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/redux_reducer_test.sublime-snippet",
+		"/E/react-playground/redux-simple-starter-testing/src/components/comment-list.js",
+		"/E/react-playground/redux-simple-starter-testing/test/actions/actions_test.js",
+		"/E/react-playground/redux-simple-starter-testing/src/actions/types.js",
+		"/E/react-playground/redux-simple-starter-testing/src/actions/index.js",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/redux_action_test.sublime-snippet",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/react_component_test_it.sublime-snippet",
+		"/E/react-playground/redux-simple-starter-testing/test/components/app_test.js",
+		"/E/react-playground/redux-simple-starter-testing/src/components/app.js",
+		"/E/react-playground/redux-simple-starter-testing/test/components/comment-box_test.js",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/react_component_test_describe.sublime-snippet",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/react_component_test_beforeEach.sublime-snippet",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/react_component_test.sublime-snippet",
+		"/E/react-playground/redux-simple-starter-testing/package.json",
+		"/E/react-playground/redux-simple-starter-blog/src/components/posts-new.js",
+		"/E/react-playground/redux-simple-starter-blog/src/routes.js",
+		"/E/react-playground/redux-simple-starter-blog/src/components/posts-show.js",
+		"/E/react-playground/redux-simple-starter-blog/src/actions/index.js",
+		"/E/react-playground/redux-simple-starter-blog/src/components/posts-index.js",
+		"/E/react-playground/redux-simple-starter-blog/src/reducers/posts.js",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/react_redux_action.sublime-snippet",
+		"/E/react-playground/redux-simple-starter-blog/src/reducers/index.js",
+		"/E/react-playground/redux-simple-starter-blog/src/index.js",
+		"/C/Users/joshu/NTUSER.DAT",
+		"/E/react-playground/redux-simple-starter-blog/style/style.css",
+		"/E/react-playground/redux-simple-starter-blog/package.json",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/react_redux_form.sublime-snippet",
+		"/E/react-playground/redux-simple-starter-blog/src/components/app.js",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/react_map_dispatch_props.sublime-snippet",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/react_container.sublime-snippet",
+		"/E/react-playground/redux-simple-starter-weather/style/style.css",
+		"/E/react-playground/redux-simple-starter-weather/src/components/google-map.js",
+		"/E/react-playground/redux-simple-starter-weather/src/containers/weather-list.js",
+		"/E/react-playground/redux-simple-starter-weather/src/components/chart.js",
+		"/E/react-playground/redux-simple-starter-weather/package.json",
+		"/E/react-playground/redux-simple-starter-weather/src/containers/search-bar.js",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/react_component_legacy.sublime-snippet",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/html_completions.py",
+		"/E/react-playground/redux-simple-starter-weather/src/components/app.js",
+		"/E/react-playground/redux-simple-starter-weather/src/actions/index.js",
+		"/E/react-playground/redux-simple-starter-weather/src/reducers/weather.js",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/react_component.sublime-snippet",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/react_redux_import_connect.sublime-snippet",
+		"/C/Users/joshu/Downloads/HTML/HTML.sublime-syntax",
+		"/C/Users/joshu/Downloads/HTML/Snippets/html.sublime-snippet",
+		"/C/Users/joshu/Downloads/HTML/Snippets/html (begin tag).sublime-snippet",
+		"/C/Users/joshu/Downloads/HTML/Comments.tmPreferences",
+		"/C/Users/joshu/Downloads/HTML/syntax_test_html.html",
+		"/C/Users/joshu/Downloads/HTML/Symbol List - ID.tmPreferences",
+		"/C/Users/joshu/Downloads/HTML/Miscellaneous.tmPreferences",
+		"/C/Users/joshu/Downloads/HTML/html_completions.py",
+		"/C/Users/joshu/Downloads/HTML/encode_html_entities.py",
+		"/C/Users/joshu/Downloads/Snippets/class.sublime-snippet",
+		"/E/react-playground/redux-simple-starter-weather/src/containers/test.js",
+		"/C/Users/joshu/Downloads/test.d",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/react_component_class.sublime-snippet",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/D/Snippets/class.sublime-snippet",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/package-metadata.json",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/.no-sublime-package",
+		"/E/react-playground/redux-simple-starter-weather/src/reducers/index.js",
+		"/F/Steam/steamapps/appmanifest_20.acf",
+		"/E/react-playground/redux-simple-starter-weather/src/index.js",
+		"/E/react-playground/redux-simple-starter/src/reducers/books.js",
+		"/E/react-playground/redux-simple-starter/src/containers/book-detail.js",
+		"/E/react-playground/redux-simple-starter/src/components/app.js",
+		"/E/react-playground/redux-simple-starter/src/reducers/active-book.js",
+		"/E/react-playground/redux-simple-starter/src/actions/index.js",
+		"/E/react-playground/redux-simple-starter/src/containers/book-list.js",
+		"/E/react-playground/redux-simple-starter/src/reducers/index.js",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/joshu/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/E/react-playground/redux-simple-starter/index.html",
+		"/E/react-playground/redux-simple-starter/style/style.css",
+		"/E/react-playground/redux-simple-starter/src/index.js",
+		"/E/react-playground/redux-simple-starter/src/components/search-bar.js",
+		"/E/react-playground/redux-simple-starter/src/components/video-list-item.js",
+		"/E/react-playground/redux-simple-starter/src/components/video-list.js",
+		"/E/react-playground/redux-simple-starter/src/components/video-detail.js",
+		"/E/dominos/CandidateChallenge2/menu/src/App.js",
+		"/E/react-playground/redux-simple-starter/src/search-bar.js",
+		"/E/react-playground/redux-simple-starter/src/video-list.js",
+		"/E/react-playground/redux-simple-starter/src/video-list-item.js",
+		"/E/react-playground/redux-simple-starter/src/video-detail.js",
+		"/E/react-playground/redux-simple-starter/package.json",
+		"/C/Users/joshu/Downloads/DxDiag.txt",
+		"/E/unity-playground/planet-sim/Assets/scripts/DynamicTerrainChunk.cs",
+		"/E/unity-playground/planet-sim/Assets/scripts/CoordsHelper.cs",
+		"/E/unity-playground/planet-sim/Assets/scripts/DynamicTerrainMaster.cs",
+		"/E/unity-playground/planet-sim/Assets/scripts/StructureColour.cs",
+		"/E/unity-playground/planet-sim/Assets/scenes/coord_test.unity",
+		"/E/unity-playground/planet-sim/Assets/scripts/StructureColours.cs",
+		"/E/unity-playground/planet-sim/Assets/scripts/SplatData.cs",
+		"/E/unity-playground/planet-sim/Assets/scripts/SphericalCoord.cs"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"bodyParser",
+			"http",
+			"ul",
+			"authenticate",
+			"div",
+			"onDubmit",
+			"onChange",
+			"div",
+			"const component = renderComponent(CommentBox);",
+			"3",
+			"has-danger",
+			"title",
+			"className=\"form-group\"",
+			"title",
+			"div",
+			"input",
+			"'",
+			"Temp",
+			"'",
+			"refLine=\"mean\"",
+			"height={120} width={180}",
+			"mean",
+			"<Sparklines />",
+			"cityData.city.name",
+			"class",
+			"'",
+			"onInputChange",
+			"false",
+			"evnt",
+			"position",
+			"this.rotation",
+			"rotation",
+			"x",
+			"BuildStructures",
+			"xDiff",
+			"halfDegPerChunk",
+			";\n",
+			"p",
+			"SplatCliffs",
+			"x",
+			"(x - 1)",
+			".terrain",
+			"terrian",
+			"td",
+			"terrainData",
+			"Terrain",
+			"SetNeighbors",
+			"x",
+			"quartDegPerChunk",
+			"rot",
+			"height",
+			"lat",
+			"target",
+			"x",
+			"terrainData",
+			"x",
+			"SubM",
+			"resty",
+			"subMenu",
+			"openMenu",
+			"Logo-panel",
+			"open",
+			"Image",
+			"pro",
+			"{this.props",
+			"subMenus",
+			"h3",
+			"img",
+			"Media",
+			"Price",
+			"Panel",
+			"Image",
+			"Panel",
+			"products",
+			"\\h+$",
+			"h1",
+			"p",
+			"Disclaimers",
+			"div",
+			"Row",
+			"Grid",
+			"Button",
+			"(\\w+): ",
+			"(\\w+: )",
+			"(\\w+): ",
+			"([a-zA-Z0-9_]+): ",
+			"([a-zA-Z0-9_]+):",
+			"^(['\"])?([a-zA-Z0-9_]+)(['\"])?:$",
+			"%USERPROFILE%",
+			"USERPROFILE",
+			"unittest {\n\t\t\n\t}",
+			"$(LI)",
+			"mongoUsers",
+			"mongoClient",
+			"private",
+			"///",
+			"\"password\" :",
+			"HashDRBGStream",
+			"MinstdRand",
+			"unpredictableSeed",
+			"toString",
+			"usersCollection",
+			"mongo",
+			"mongo.getDatabase(\"blogd\")[\"blogd.users\"]",
+			"users",
+			"\\",
+			"*",
+			"read",
+			"~/",
+			"^[-1]",
+			"^[1]",
+			"border-radius",
+			"black",
+			"primaryText",
+			"#FFFFFF",
+			"appearance",
+			":",
+			";",
+			"{",
+			"}",
+			"input",
+			"form ",
+			"./",
+			"//string title = \"login\";\n\t\t//UserData user = _authdUser;",
+			"user",
+			"ensureAuth",
+			"ensureUserAuthed",
+			"UserData"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"",
+			"",
+			"\"\\1\": ",
+			"\"\\1\"",
+			"\"\\2\"",
+			"",
+			"\\\\\\\\",
+			"\\\\"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "auth/server/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "auth/server/router.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145,
+								145
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "auth/server/controllers/authentication.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"auto_name": "POST http://localhost:3090/signup",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.figlet_preview":
+	{
+		"height": 559.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "Packages/User/chrome.sublime-build",
+	"project": "react-playground.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"comment-box",
+				"redux-simple-starter-testing\\test\\components\\comment-box_test.js"
+			],
+			[
+				"comment",
+				"redux-simple-starter-testing\\src\\components\\comment-box.js"
+			],
+			[
+				"posts-n",
+				"redux-simple-starter-blog\\src\\components\\posts-new.js"
+			],
+			[
+				"char",
+				"redux-simple-starter-weather\\src\\components\\chart.js"
+			],
+			[
+				"app.js",
+				"redux-simple-starter-weather\\src\\components\\app.js"
+			],
+			[
+				"actioinde",
+				"redux-simple-starter\\src\\actions\\index.js"
+			],
+			[
+				"vid",
+				"redux-simple-starter\\src\\components\\video-detail.js"
+			],
+			[
+				"vi",
+				"redux-simple-starter\\src\\components\\video-list-item.js"
+			],
+			[
+				"inde",
+				"redux-simple-starter\\index.html"
+			],
+			[
+				"ind",
+				"redux-simple-starter\\index.html"
+			],
+			[
+				"packa",
+				"redux-simple-starter\\package.json"
+			],
+			[
+				"app",
+				"redux-simple-starter\\src\\components\\app.js"
+			],
+			[
+				"dyna",
+				"scripts\\DynamicTerrainChunk.cs"
+			],
+			[
+				"coord",
+				"scenes\\coord_test.unity"
+			],
+			[
+				"dyn",
+				"scripts\\DynamicTerrainChunk.cs"
+			],
+			[
+				"spher",
+				"scripts\\SphericalCoord.cs"
+			],
+			[
+				"d",
+				"DynamicTerrain.cs"
+			],
+			[
+				"src/ind",
+				"menu\\src\\index.js"
+			],
+			[
+				"logi",
+				"blogd-spaces\\views\\login.dt"
+			],
+			[
+				"inp",
+				"blogd-spaces\\docs\\input.html"
+			],
+			[
+				".dt",
+				"blogd-spaces\\views\\nav.dt"
+			],
+			[
+				"we",
+				"blogd-spaces\\source\\blogd\\web.d"
+			],
+			[
+				"web",
+				"blogd-spaces\\source\\blogd\\web.d"
+			],
+			[
+				"travis",
+				"blogd-spaces\\.travis.yml"
+			],
+			[
+				"yml",
+				"blogd-spaces\\.travis.yml"
+			],
+			[
+				"user_c",
+				"blogd-spaces\\views\\user_create.dt"
+			],
+			[
+				"user",
+				"blogd-spaces\\views\\user_create.dt"
+			],
+			[
+				"login",
+				"blogd-spaces\\views\\login.dt"
+			],
+			[
+				"tra",
+				"blogd-spaces\\.travis.yml"
+			],
+			[
+				"dub",
+				"blogd-spaces\\dub.json"
+			],
+			[
+				"nav",
+				"blogd-spaces\\views\\nav.dt"
+			],
+			[
+				"tes",
+				"blogd-spaces\\views\\test.dt"
+			],
+			[
+				"weba",
+				"blogd-spaces\\source\\blogd\\webapp.d"
+			],
+			[
+				"dub.jso",
+				"blogd-spaces\\dub.json"
+			],
+			[
+				"du",
+				"dub.json"
+			],
+			[
+				"bas",
+				"views\\base.dt"
+			],
+			[
+				"mai",
+				"public\\main.css"
+			],
+			[
+				"",
+				"public\\main.styl"
+			],
+			[
+				"use",
+				"views\\user_create.dt"
+			],
+			[
+				"log",
+				"views\\login.dt"
+			],
+			[
+				"na",
+				"views\\nav.dt"
+			],
+			[
+				"main",
+				"public\\main.styl"
+			],
+			[
+				"m",
+				"public\\main.styl"
+			],
+			[
+				"ba",
+				"views\\base.dt"
+			],
+			[
+				"ma",
+				"public\\main.styl"
+			],
+			[
+				"lo",
+				"views\\login.dt"
+			],
+			[
+				"cre",
+				"views\\user_create.dt"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"jos",
+				"dub.json"
+			],
+			[
+				"a",
+				"source\\app.d"
+			],
+			[
+				"cr",
+				"views\\user_create.dt"
+			],
+			[
+				"css",
+				"public\\main.css"
+			],
+			[
+				"test",
+				"views\\test.dt"
+			],
+			[
+				"us",
+				"source\\blogd\\userdata.d"
+			],
+			[
+				"in",
+				"views\\index.dt"
+			],
+			[
+				"te",
+				"views\\test.dt"
+			],
+			[
+				"dubj",
+				"blogd-spaces\\dub.json"
+			],
+			[
+				"read",
+				"blogd-spaces\\README.md"
+			],
+			[
+				"re",
+				"diet-ng\\README.md"
+			],
+			[
+				"giti",
+				"blogd-spaces\\.gitignore"
+			],
+			[
+				"mou",
+				"Assets\\MouseManager.cs"
+			],
+			[
+				"ap",
+				"source\\app.d"
+			],
+			[
+				"note.c",
+				"note\\public\\note.css"
+			],
+			[
+				"no",
+				"note\\note.exe"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "pla",
+		"selected_items":
+		[
+			[
+				"pla",
+				"E:\\unity-playground\\planet-sim\\planet-sim.sublime-project"
+			],
+			[
+				"",
+				"E:\\blogd-spaces\\blogd-spaces.sublime-project"
+			],
+			[
+				"blo",
+				"E:\\blogd-spaces\\blogd-spaces.sublime-project"
+			],
+			[
+				"log",
+				"E:\\logd-html\\logd-html.sublime-project"
+			],
+			[
+				"sap",
+				"E:\\unity-playground\\space-cube\\space-cube.sublime-project"
+			],
+			[
+				"s",
+				"E:\\unity-playground\\space-cube\\space-cube.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 60.0,
+		"last_filter": "runApplication",
+		"selected_items":
+		[
+			[
+				"runApplication",
+				"runApplication"
+			],
+			[
+				"syn",
+				"vibe.core.sync"
+			],
+			[
+				"",
+				"NoteStore"
+			]
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
